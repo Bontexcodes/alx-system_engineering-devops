@@ -42,3 +42,4 @@
 
 [21-reverse](21-reverse) - SCript that reverse its input
 
+[22-users_and_homes](22-users_and_homes) - DIsplay all users and their homes directories, sorted by users. Based on the /etc/passwd file
