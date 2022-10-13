@@ -40,3 +40,16 @@ Your script file should contain maximum 64 characters.
 
 [Floats](Floats) : A script that prints a number with two decimal places, followed by a new line.
 The number will be stored in the enviroment variable NUM.
+
+[Decimal to Hexadecimal](Decimal to Hexadecimal) : A script that converts a number from base 10 to base 16.
+The number is base 10 is stored in the enviroment variable DECIMAL.
+The script should display the number in base 16, followed by a new line.
+
+[Everyone is a proponent of strong encryption](Everyone is a proponent of strong encryption) : A script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+[The eggs of the brood need to be an odd number](The eggs of the brood need to be an odd number) : A script that prints every other line from the input, starting with the first line.
+
+[I'm an instant star. Just add water and stir.](I'm an instant star.Just add water and stir) : A script that adds the two numbers stored in the enviroment variables WATER and STIR and prints the results.
+WATER is in base water.
+STIR is in base stir.
+The result should be in base bestchol.
