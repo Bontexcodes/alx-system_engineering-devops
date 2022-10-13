@@ -27,3 +27,16 @@ POWER and DIVIDE are environment variables.
 BREATH and LOVE are enviroment variables.
 The script should display the result, followed by a new line.
 
+[There are 10 types of people in the world -- Those who understand binary, and those who don't](There are 10 types of people in the world -- Those who understand binary, and those who don't) : A script that converts a number from base 2 to base 10.
+The number in base 2 is stored in the enviroment variable BINARY.
+The script should display the number in base 10, followed by a new line.
+
+[Combination](Combination) : A script that prints all possible combinations of two letters, except oo.
+Letters are lower cases, from a to z.
+One combination per line.
+The output should be alpha ordered, starting with aa.
+Do not print oo.
+Your script file should contain maximum 64 characters.
+
+[Floats](Floats) : A script that prints a number with two decimal places, followed by a new line.
+The number will be stored in the enviroment variable NUM.
